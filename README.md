@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajpls
-- 👀 I’m interested in Machine Learning and Software Development
+- 👀 I’m interested in AI and Software Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: ajpls108@gmail.com
